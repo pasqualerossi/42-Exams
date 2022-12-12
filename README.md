@@ -15,3 +15,9 @@
 - 🖥️ [Exam Rank 05](https://github.com/pasqualerossi/42-School-Exam-Rank-05) - 3 C++ Questions
 
 - 🖥️ [Exam Rank 06](https://github.com/pasqualerossi/42-School-Exam-Rank-06) - 1 Question - Mini_Serv
+
+<br>
+
+# Note
+
+if you can make any program or function shorter, but readable, please do let me know and I'll update it. 
