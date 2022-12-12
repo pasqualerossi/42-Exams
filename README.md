@@ -1,12 +1,6 @@
-<div align="center">
-
 # 42 Piscine Exams
 
-</div>
-
 - 🖥️ [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
-
-<div align="center">
 
 # 42 School Exams
 
