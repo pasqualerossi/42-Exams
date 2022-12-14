@@ -1,6 +1,6 @@
 # 42 Piscine Exams
 
-- 🖥️ [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam)
+- 🖥️ [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) - Exam 00, 01, 02 and Final Piscine Exam
 
 <br>
 
