@@ -1,11 +1,3 @@
-# 42 Piscine Exams
-
-🖥️ [Piscine Exams](https://github.com/pasqualerossi/42-Piscine/tree/main/42%20Piscine%20Exam) 
-
-> Exam 00, 01, 02 and Final Piscine Exam
-
-<br>
-
 # 42 School Exams
 
 🖥️ [Exam Rank 02](https://github.com/pasqualerossi/42-School-Exam-Rank-02) 
@@ -39,10 +31,7 @@
 
 ## Total
 
-- 4 Piscine Exams
 - 5 School Exams
-
-> 9 Exams from the start of the Piscine to the end of the Inner Circle.
 
 <br>
 
