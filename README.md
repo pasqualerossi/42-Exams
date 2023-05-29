@@ -78,3 +78,7 @@ These are the rules that I generally follow when it comes to the code in the exa
 `
 Remember Though Rules Are Meant To Be Broken!
 `
+<br>
+
+# Exam Practice Tool
+Practice the exam just like you would in the real exam using this tool - https://github.com/JCluzet/42_EXAM
