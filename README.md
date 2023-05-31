@@ -70,7 +70,7 @@ These are the rules that I generally follow when it comes to the code in the exa
 :three: Try to follow the 42 Norminette rules as much as possible, so none of the following: for, do, switch, case, goto, etc
 > Reason: it's what we're taught as 42 Students, so you shouldn't have to learn something new for the exams, leave that for the projects.
 
-:four: Try not to have a function and/or main be too long and instead create break it into another function instead
+:four: Try not to have a function and/or main be too long and instead break it into another functions instead
 > Reason: see :one: and :two: above 🔼
 
 <br>
