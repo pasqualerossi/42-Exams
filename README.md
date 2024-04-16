@@ -51,33 +51,8 @@
 
 ## :pen: Note
 
-if you can make any program or function shorter, but readable, please do let me know and I'll update it. 
+if you can make any program or function shorter, but readable, please do a pull request and I'll update it. 
 
-<br>
-
-## :book: My Exam Code Rules 
-
-These are the rules that I generally follow when it comes to the code in the exams above:
-
-<br>
-
-:one: Try to make the code as short as possible
-> Reason: less code generally means less logic and less to remember.
-
-:two: Try to make the code readable
-> Reason: the more the code is to human language, the easier it is to read and understand.
-
-:three: Try to follow the 42 Norminette rules as much as possible, so none of the following: for, do, switch, case, goto, etc
-> Reason: it's what we're taught as 42 Students, so you shouldn't have to learn something new for the exams, leave that for the projects.
-
-:four: Try not to have a function and/or main be too long and instead break it into another functions instead
-> Reason: see :one: and :two: above 🔼
-
-<br>
-
-`
-Remember Though Rules Are Meant To Be Broken!
-`
 <br>
 
 # Exam Practice Tool
